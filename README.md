@@ -1,6 +1,6 @@
 # ✈️ Flight Data Analytics Dashboard
 
-![Dashboard Preview](Images/Dashboard.png)
+![Dashboard Preview](images/Dashboard.png)
 
 ## 📖 Project Overview
 
@@ -50,7 +50,7 @@ Flight-Data-Analytics/
 
 The project follows a **Star Schema** design to improve performance and simplify analytical reporting.
 
-![Star Schema](Images/Schema.png)
+![Star Schema](images/Schema.png)
 
 ### Fact Table
 
@@ -177,7 +177,7 @@ Break down delays into operational categories:
 
 A dedicated drill-through page allows users to perform deeper investigations into airports, routes, and operational metrics.
 
-![Drill Through](Images/DrillThrough.png)
+![Drill Through](images/DrillThrough.png)
 
 This feature provides detailed contextual analysis without overcrowding the main dashboard.
 
